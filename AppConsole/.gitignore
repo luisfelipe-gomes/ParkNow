@@ -1,0 +1,17 @@
+﻿# Arquivos de configuração do Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Diretórios e arquivos de build
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.log
+
+# Diretórios de pacotes
+packages/
